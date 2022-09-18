@@ -1,0 +1,2 @@
+# kaggle_sep22_tabular_playground_series
+The task for this competition is to forecast sales data for two competing merchanise stores in six countries for four different products. We are also asked to forecast sales during the tumultuous year 2021, when conditions are far from the ordinary.  A complete description of the task, as well as the datasets, can be found at this link: https://www.kaggle.com/competitions/tabular-playground-series-sep-2022
