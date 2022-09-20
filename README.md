@@ -10,7 +10,7 @@ A brief outline of the project is as follows:
 
 1) Exploratory Data Analysis
 
-2) Labelling & Organizing Data
+2) Organizing Data
 
 3) Defining Baseline
 #### Modelling ####
@@ -22,3 +22,5 @@ A brief outline of the project is as follows:
 #### Up Next? ####
 
 6) Time Series Analysis
+
+
